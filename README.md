@@ -1,9 +1,9 @@
 # OWASP Top 10 LLM: Hands-on Workshop
 [Stefano Amorelli](https://www.linkedin.com/in/stefanoamorelli/)
 ## Resources
-### [Presentation](https://pitch.com/v/amorelli-owasp-top-10-llm-tallinn-bsides-2023-e7ypsk)
-Password: `wee2g73m`
+### [Presentation Slides](https://pitch.com/v/amorelli-owasp-top-10-llm-tallinn-bsides-2023-e7ypsk)
 Slides from [Tallinn BSides 2023](https://tallinn.bsides.ee/)
+`Password: wee2g73m`
 ### [OWASP TOP 10 LLM v1.0.1](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_0_1.pdf)
 ## Exercises
 ### Exercise 1 (LLM01): Direct Prompt Injection
