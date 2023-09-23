@@ -61,6 +61,7 @@ https://youtu.be/nzcVfRlYl90
 *IMPORTANT* During our workshop, some members outlined the possibility that many other types of plugins (more popular) could be vulnerable, such as translators of websites. 
 
 </details>
+
 ### Exercise 3 (LLM02): Insecure Output Handling - Tracking, Data Leakage, Phishing, NSFW
 An attacker uses a web page that detects the copy of the text via a javascript function and injects an hidden prompt whenever the users copy some text. When the victim pastes the text into ChatGPT, the copied text includes an hidden prompt. We could use this technique to perform similar attacks as the previous exercise, such as including a tracking pixel, a phishing link, a NSFW image, but also a more sophisticated attack that will steal permanently all the chat history (questions) of the victim via webhooks. Any ideas how we could achieve that?
 #### Hints
@@ -74,6 +75,7 @@ With the following tool we can experiment different prompts, and the possibility
 *NB* This vulnerability is better exploitable with longer texts and if the prompt is put randomly in the middle of the text.
 
 </details>
+
 ### Exercise 4 (LLM03) (LLM05): Poisoning an open-source LLM
 Let's modify the responses of a open-source LLM, namely, let's modify some specific prompts to spread fake news!
 
